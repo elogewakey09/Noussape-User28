@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOUSSAPE</string>
+    <string name="facebook_app_id">617497387216165</string>
+    <string name="fb_login_protocol_scheme">fb617497387216165</string>
+    <string name="facebook_client_token">7d8e948e50542fecf4f8b86e0a93e9bb</string>
+</resources>
